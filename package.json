@@ -1,0 +1,26 @@
+{
+  "name": "git_puller",
+  "version": "1.0.0",
+  "description": "Script to cycle through all my local repos, and pull changes.",
+  "main": "pullall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acwilson96/git_puller.git"
+  },
+  "keywords": [
+    "git",
+    "pull",
+    "script"
+  ],
+  "author": "Alexander Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acwilson96/git_puller/issues"
+  },
+  "homepage": "https://github.com/acwilson96/git_puller#readme",
+  "dependencies": {
+  }
+}
